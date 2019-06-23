@@ -1,0 +1,5 @@
+git init初始化
+gitadd 添加文件
+git commit -m ''保存到暂存区；
+git log  查看更新信息
+git reset --hard HEAD^回退上一个版本
